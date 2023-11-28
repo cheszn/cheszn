@@ -1,6 +1,6 @@
 ## Hello there, I'm Chessin! :wave:
 
-### A RevOps enthusiast witg specialisation in Data Analytics and Data Science
+### A RevOps enthusiast with specialisation in Data Analytics and Data Science
 - :atom: &nbsp; I'm currently a learning data science.
 - :seedling: &nbsp; Also I'm learning and applying latest trends in Revenue Operations focusing on the Data Operations.
 - :page_facing_up: &nbsp; Mu Portfolio can be found at @ [Chessin Portfolio](https://portfolio.internstudio.online/chessin-portfolio)
