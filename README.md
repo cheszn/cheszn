@@ -1,7 +1,5 @@
 # Hey there, I'm Chessin :wave:
 
-[![GitHub contributors](https://img.shields.io/github/contributors/cheszn/README)](https://github.com/cheszn/edit/main/README/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/cheszn/edit/main/README.md)](https://github.com/coderjojo/creative-profile-readme/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/coderjojo/creative-profile-readme/pulls) [![HitCount](https://views.whatilearened.today/views/github/coderjojo/creative-profile-readme.svg)](https://github.com/coderjojo/creative-profile-readme) [![website coderjojo.github.io](https://img.shields.io/website-up-down-green-red/http/coderjojo.github.io/creative-profile-readme.svg)](https://coderjojo.github.io/creative-profile-readme/)
-
 <!--
 <p align="center"> 
   Visitor count<br>
