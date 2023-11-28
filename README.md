@@ -1,9 +1,11 @@
 # Hey there, I'm Chessin :wave:
 
+<!--
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/cheszn/count.svg" />
 </p>
+-->
 
 ## About me
 
