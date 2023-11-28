@@ -1,32 +1,30 @@
-## Hello there, this is Rakibur! :wave:
+## Hello there, I'm Chessin! :wave:
 
-### A Data Science Teacher with keen interest in Machine Learning and Artificial Intelligence
-
-- :atom: &nbsp; I'm currently a data science teacher @ [Spiced Academy](https://www.spiced-academy.com/en)
-- :seedling: &nbsp; At present, I'm learning new tools for Optical Character Recognition (OCR) & Natural Language Processing (NLP)
-- :page_facing_up: &nbsp; My research articles can be found @ [iNSPIRE](https://inspirehep.net/authors/1046022?ui-citation-summary=true)
-- :blue_heart: &nbsp; I love metal music :metal: travelling :airplane: and chess :chess_pawn:
+### A RevOps enthusiast witg specialisation in Data Analytics and Data Science
+- :atom: &nbsp; I'm currently a learning data science.
+- :seedling: &nbsp; Also I'm learning and applying latest trends in Revenue Operations focusing on the Data Operations.
+- :page_facing_up: &nbsp; Mu Portfolio can be found at @ [Chessin](https://portfolio.internstudio.online/chessin-portfolio)
+- :blue_heart: &nbsp; I love to play Cricket, Volleyball and to travel
 
 <details>
 <summary>My Toolkit</summary>
+<br>
+<img align="left" src="[https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://avatars.githubusercontent.com/u/453694?s=200&v=4)">
+<img align="left" src="[[https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://avatars.githubusercontent.com/u/453694?s=200&v=4)](https://avatars.githubusercontent.com/u/326419?s=200&v=4)">
+<img align="left" src="[https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://avatars.githubusercontent.com/u/1437874?s=200&v=4)">
+<img align="left" src="[https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](http://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg
+and)">
 <br>
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img align="left" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
-<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
 <br>
 <img align="left" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-<br>
 <img align="left" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<br>
 </details>
 
 <details>
