@@ -1,4 +1,42 @@
-## Hello there, I'm Chessin! :wave:
+# Hey there, I'm Chessin :wave:
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/cheszn/count.svg" />
+</p>
+
+## About me
+
+### A RevOps enthusiast with specialisation in Data Analytics and Data Science
+- :atom: &nbsp; I'm currently a learning data science.
+- :seedling: &nbsp; Also I'm learning and applying latest trends in Revenue Operations focusing on the Data Operations.
+- :page_facing_up: &nbsp; Mu Portfolio can be found at @ [Chessin Portfolio](https://portfolio.internstudio.online/chessin-portfolio)
+- :blue_heart: &nbsp; I love to play Cricket, Volleyball and to travel  
+
+
+## Things I am passionate about
+
+- RevOps
+- Data Science
+
+## Get in touch :coffee:
+
+
+<!--
+**sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 
 ### A RevOps enthusiast with specialisation in Data Analytics and Data Science
 - :atom: &nbsp; I'm currently a learning data science.
