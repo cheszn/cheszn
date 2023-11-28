@@ -9,12 +9,6 @@
 <details>
 <summary>My Toolkit</summary>
 <br>
-<img align="left" src="[https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://avatars.githubusercontent.com/u/453694?s=200&v=4)">
-<img align="left" src="[[https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://avatars.githubusercontent.com/u/453694?s=200&v=4)](https://avatars.githubusercontent.com/u/326419?s=200&v=4)">
-<img align="left" src="[https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://avatars.githubusercontent.com/u/1437874?s=200&v=4)">
-<img align="left" src="[https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](http://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg
-and)">
-<br>
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img align="left" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
@@ -30,11 +24,11 @@ and)">
 <details>
 <summary>GitHub Stats</summary>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=rahman-rakib&show_icons=true&theme=prussian">
+<img src="https://github-readme-stats.vercel.app/api?username=cheszn&show_icons=true&theme=prussian">
 </details>
 
 
 ### Feel free to reach out! :smiley:
 
-[<img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rakibur-rahman-phd-18877446/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:rahmanrakib@gmail.com)
+[<img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/cheszn/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:chessinown@gmail.com)
