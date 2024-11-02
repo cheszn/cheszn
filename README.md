@@ -12,7 +12,7 @@
 ### A RevOps enthusiast specialized in Data Analytics and Data Science
 - :atom: &nbsp; I'm currently learning data science.
 - :seedling: &nbsp; Also I'm learning and applying latest trends in Revenue Operations focusing on the Data Operations.
-- :page_facing_up: &nbsp; My Portfolio can be found at @ [Chessin Portfolio](https://portfolio.internstudio.online/chessin-portfolio)
+- :page_facing_up: &nbsp; My Portfolio can be found at @ [Chessin Portfolio](https://portfolio.internstudio.co/chessin-portfolio)
 - :blue_heart: &nbsp; I love to play Cricket, Volleyball and to travel  
 
 
